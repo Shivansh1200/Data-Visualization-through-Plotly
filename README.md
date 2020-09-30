@@ -1,6 +1,6 @@
 # Data-Visualization-through-Plotly
 
-## About me
+## ABOUT ME-
 
 **Piyush Pathak**
 
@@ -11,7 +11,7 @@
 [**BLOG**](https://medium.com/@piyushpathak03)
 
 
-# 📫 Follw me: 
+# 📫 Follw Me: 
 
 [![Linkedin Badge](https://img.shields.io/badge/-PiyushPathak-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/piyushpathak03/)](https://www.linkedin.com/in/piyushpathak03/)
 
